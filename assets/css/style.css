@@ -1,0 +1,29 @@
+body {
+    background: url(../images/wallpaper.png);
+    color: white;
+}
+
+h2 {
+    color:red;
+}
+
+h3, h5 {
+    color:white;   
+}
+
+.container {
+    width: 100%;
+}
+
+.jumbotron {
+    background-image: url(../images/Cover.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 500px;
+    text-align: center;
+    color: white;
+}
+
+.cards {
+    height: 375px;
+}
